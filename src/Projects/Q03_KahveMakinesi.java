@@ -2,7 +2,7 @@ package Projects;
 
 import java.util.Scanner;
 
-public class C03_KahveMakinesi {
+public class Q03_KahveMakinesi {
 
     public static void main(String[] args) {
 

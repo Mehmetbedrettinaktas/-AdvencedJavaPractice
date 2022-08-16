@@ -1,6 +1,6 @@
 package Projects;
 
-public class C32_Yiyecek {
+public class Q11_Yiyecek {
 
     public static void main(String[] args) {
 

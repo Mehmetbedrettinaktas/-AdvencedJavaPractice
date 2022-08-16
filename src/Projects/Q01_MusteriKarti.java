@@ -2,7 +2,7 @@ package Projects;
 
 import java.util.Scanner;
 
-public class C01_MusteriKarti {
+public class Q01_MusteriKarti {
 
     /*
      * Kullanicidan aldigi urunun adedini ve liste fiyatini alin, kullaniciya

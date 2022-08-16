@@ -2,7 +2,7 @@ package Projects;
 
 import java.util.Scanner;
 
-public class Q05_TasKagitMakas {
+public class Q13_TasKagitMakas {
     public static void main(String[] args) {
          /*
          Öncelikle kullanıcıdan seçim alabilmek için Scanner sınıfını aktarıyoruz.

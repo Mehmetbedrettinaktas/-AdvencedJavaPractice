@@ -3,7 +3,7 @@ package Projects;
 import java.util.Random;
 import java.util.Scanner;
 
-public class C06_BlnmynKelime {
+public class Q07_BlnmynKelime {
 
     public static void main(String[] args) {
 

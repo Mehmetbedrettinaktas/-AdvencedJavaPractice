@@ -2,7 +2,7 @@ package Projects;
 
 import java.util.Scanner;
 
-public class C30_Bilet {
+public class Q10_Bilet {
 
     public static void main(String[] args) {
 

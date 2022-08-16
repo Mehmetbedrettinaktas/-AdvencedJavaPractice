@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class C05_Market {
+public class Q06_Market {
 
     public static List<String> urunler = new ArrayList<>();  // Global
     public static List <Double> fiyatlar = new ArrayList<>();

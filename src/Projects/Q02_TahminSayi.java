@@ -3,7 +3,7 @@ package Projects;
 import java.util.Random;
 import java.util.Scanner;
 
-public class C02_TahminSayi {
+public class Q02_TahminSayi {
 
 
     public static void main(String[] args) {

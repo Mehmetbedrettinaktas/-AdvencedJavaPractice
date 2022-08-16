@@ -2,7 +2,7 @@ package Projects;
 
 import java.util.Scanner;
 
-public class C07_KelimeOyunu2 {
+public class Q08_KelimeOyunu2 {
 
     //her metodda kullaancağım için aşağıdaki scan ve veriable'leri  classlevel'a aldım
     static int oyuncu = 1;//oyuncuyu önce 1 yani 1. oyuncu olarak başlangıç değeri ile atadım sonra oyuncu değiştireceğim zaman oyuncu=1 yerine oyuncu=2 atayacağım

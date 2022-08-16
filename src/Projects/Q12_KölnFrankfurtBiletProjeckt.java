@@ -2,7 +2,7 @@ package Projects;
 
 import java.util.Scanner;
 
-public class KölnFrankfurtBiletProjeckt {
+public class Q12_KölnFrankfurtBiletProjeckt {
     public static void main(String[] args) {
 
         bilet("Köln ve Frankfurt");

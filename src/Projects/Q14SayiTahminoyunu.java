@@ -6,7 +6,7 @@ package Projects;
 import java.util.Random;
 import java.util.Scanner;
 
-    public class SayiTahminoyunu {
+    public class Q14SayiTahminoyunu {
 
     /*
 

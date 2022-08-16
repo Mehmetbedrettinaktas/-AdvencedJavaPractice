@@ -2,7 +2,7 @@ package Projects;
 
 import java.util.Scanner;
 
-public class C004_KahvemakinasiSwitch {
+public class Q05_KahvemakinasiSwitch {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
